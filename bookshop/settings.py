@@ -112,7 +112,7 @@ SESSION_COOKIE_AGE = 60
 # https://docs.djangoproject.com/en/5.1/topics/i18n/
 
 LANGUAGE_CODE = 'en-us'
-
+#TIME
 TIME_ZONE = 'UTC'
 
 USE_I18N = True
